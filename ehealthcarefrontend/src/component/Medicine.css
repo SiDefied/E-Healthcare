@@ -1,0 +1,35 @@
+.hrow {
+    margin: auto;
+    border: 1px;
+    background-color: ivory;
+
+}
+
+.mrow {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10%;
+    border: 2px;
+}
+
+
+.form-control {
+    margin-right: 10%;
+    padding-right: 20%;
+}
+
+.td{
+    margin:20%;
+}
+
+.meddes{
+    text-align: left;
+    font-style:italic;
+    margin: 10%;
+    margin-left: 50px;
+}
+
+.logo {
+    padding-left: 10px;
+    padding-right: 10px;
+}

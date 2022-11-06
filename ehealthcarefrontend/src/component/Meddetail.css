@@ -1,0 +1,30 @@
+
+.name{
+    padding-top: 50px;
+}
+.vl {
+    border-left: 2px solid green;
+    height: 100%;
+}
+.card-block{
+    padding-left: 20px;
+}
+.desc{
+    font-size: 10px;
+}
+.sp{
+    padding-top: 20px;
+}
+.border{
+    padding-left: 10px;
+}
+.price{
+    color: green;
+}
+.pay-btn{
+    font-size: 20px;
+}
+.add-btn{
+    margin-top: 10px;
+    font-size: 20px;
+}
